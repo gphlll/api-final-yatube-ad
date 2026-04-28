@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.13, pytest-6.2.4, py-1.11.0, pluggy-0.13.1 -- /home/gphl/Dev/api-final-yatube-ad/venv/bin/python3
+django: settings: yatube_api.settings (from ini)
+rootdir: /home/gphl/Dev/api-final-yatube-ad, configfile: pytest.ini
+plugins: pythonpath-0.7.3, django-4.4.0
+collecting ... collected 0 items
+
+============================ no tests ran in 0.01s =============================
